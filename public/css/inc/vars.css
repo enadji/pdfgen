@@ -2,8 +2,8 @@
 
 :root {
 	/* Fonts */
-  --font-ui: "Lato", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", "Luxi Sans", sans-serif;
-  --font-text: "Lora", Georgia, "DejaVu Serif", Norasi, serif;
+	--font-ui: "FiraSans", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", "Luxi Sans", sans-serif;
+	--font-text: "Vollkorn", Georgia, "DejaVu Serif", Norasi, serif;
 	--font-mono: "Roboto Mono", Monaco, "DejaVu Sans Mono", "Lucida Console", "Andale Mono", monospace;
 	
 	/* Colors */

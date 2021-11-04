@@ -1,66 +1,68 @@
 /* Fonts */
-/* Lato */
+
+/* FiraSans */
 @font-face {
-  font-family: "Lato";
-  src: url("../../fonts/Lato-Regular.ttf");
+  font-family: "FiraSans";
+  src: url("../../fonts/FiraSans-Regular.ttf");
 }
 @font-face {
-  font-family: "Lato";
-  src: url("../../fonts/Lato-Bold.ttf");
+  font-family: "FiraSans";
+  src: url("../../fonts/FiraSans-Bold.ttf");
   font-weight: bold;
 }
 @font-face {
-  font-family: "Lato";
-  src: url("../../fonts/Lato-Italic.ttf");
+  font-family: "FiraSans";
+  src: url("../../fonts/FiraSans-Italic.ttf");
   font-style: italic;
 }
 @font-face {
-  font-family: "Lato";
-  src: url("../../fonts/Lato-Italic.ttf");
+  font-family: "FiraSans";
+  src: url("../../fonts/FiraSans-Italic.ttf");
   font-style: oblique;
 }
 @font-face {
-  font-family: "Lato";
-  src: url("../../fonts/Lato-BoldItalic.ttf");
+  font-family: "FiraSans";
+  src: url("../../fonts/FiraSans-BoldItalic.ttf");
   font-weight: bold;
   font-style: italic;
 }
 @font-face {
-  font-family: "Lato";
-  src: url("../../fonts/Lato-BoldItalic.ttf");
+  font-family: "FiraSans";
+  src: url("../../fonts/FiraSans-BoldItalic.ttf");
   font-weight: bold;
   font-style: oblique;
 }
 
-/* Lora */
+/* Vollkorn */
+
 @font-face {
-  font-family: "Lora";
-  src: url("../../fonts/Lora-Regular.ttf");
+  font-family: "Vollkorn";
+  src: url("../../fonts/Vollkorn-Regular.ttf");
 }
 @font-face {
-  font-family: "Lora";
-  src: url("../../fonts/Lora-Bold.ttf");
+  font-family: "Vollkorn";
+  src: url("../../fonts/Vollkorn-Bold.ttf");
   font-weight: bold;
 }
 @font-face {
-  font-family: "Lora";
-  src: url("../../fonts/Lora-Italic.ttf");
+  font-family: "Vollkorn";
+  src: url("../../fonts/Vollkorn-Italic.ttf");
   font-style: italic;
 }
 @font-face {
-  font-family: "Lora";
-  src: url("../../fonts/Lora-Italic.ttf");
+  font-family: "Vollkorn";
+  src: url("../../fonts/Vollkorn-Italic.ttf");
   font-style: oblique;
 }
 @font-face {
-  font-family: "Lora";
-  src: url("../../fonts/Lora-BoldItalic.ttf");
+  font-family: "Vollkorn";
+  src: url("../../fonts/Vollkorn-BoldItalic.ttf");
   font-weight: bold;
   font-style: italic;
 }
 @font-face {
-  font-family: "Lora";
-  src: url("../../fonts/Lora-BoldItalic.ttf");
+  font-family: "Vollkorn";
+  src: url("../../fonts/Vollkorn-BoldItalic.ttf");
   font-weight: bold;
   font-style: oblique;
 }
